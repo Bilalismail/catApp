@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Bilal's Cat App
+The live link: https://catappbilal.herokuapp.com/
+
+This Web application returns a cat from from The Cat API and renders information about the cat such as name, fact, inteligence etc.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
